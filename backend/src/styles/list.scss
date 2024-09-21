@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  width: 100%;
+  .listContainer {
+    flex: 6;
+    padding: 20px;
+  }
+}
+
+.red-text {
+  color: red;
+}

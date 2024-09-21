@@ -1,0 +1,45 @@
+.reports {
+  .reportBtn {
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    background-color: #841dde;
+    float: right;
+
+    &:hover {
+      background-color: #841dde;
+      opacity: 80%;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+  .reportsTitle {
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 16px;
+
+    &.reportsTitleRoot {
+      margin-bottom: 84px;
+    }
+  }
+
+  .reportsHeaderDate {
+    & > p {
+      margin-bottom: 0;
+      line-height: 1.25;
+      text-align: center;
+    }
+  }
+
+  .reportsCellDate {
+    text-align: center;
+  }
+}

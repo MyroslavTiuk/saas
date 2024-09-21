@@ -1,0 +1,1804 @@
+{
+  "admin_locations": [
+    {
+      "id": 1,
+      "admin_location": "EDU68",
+      "admin_desc": "EDU - Manus Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:15:10",
+      "updated_at": "2023-05-03 07:15:10"
+    },
+    {
+      "id": 2,
+      "admin_location": "EDU69",
+      "admin_desc": "EDU - NCD",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:15:48",
+      "updated_at": "2023-05-03 07:15:48"
+    },
+    {
+      "id": 3,
+      "admin_location": "EDU70",
+      "admin_desc": "EDU - Enga Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:16:20",
+      "updated_at": "2023-05-03 07:16:20"
+    },
+    {
+      "id": 4,
+      "admin_location": "EDU71",
+      "admin_desc": "EDU - Kiunga\/Lake Murray Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:16:54",
+      "updated_at": "2023-05-03 07:16:54"
+    },
+    {
+      "id": 5,
+      "admin_location": "EDU72",
+      "admin_desc": "EDU - Jiwaka Province",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:17:32",
+      "updated_at": "2023-05-03 07:17:32"
+    },
+    {
+      "id": 6,
+      "admin_location": "EDU73",
+      "admin_desc": "EDU - Hela Province",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:18:16",
+      "updated_at": "2023-05-03 07:18:16"
+    },
+    {
+      "id": 7,
+      "admin_location": "PMD",
+      "admin_desc": "Prime Minister's Department",
+      "user_type": "Non-Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-05-03 07:31:04",
+      "updated_at": "2023-05-03 07:31:04"
+    },
+    {
+      "id": 8,
+      "admin_location": "CIS",
+      "admin_desc": "Corrective Institution Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 9,
+      "admin_location": "PDF",
+      "admin_desc": "PNG Defence Force",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 10,
+      "admin_location": "PDF01",
+      "admin_desc": "PNGDF Head Quater - Murray Bks",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 11,
+      "admin_location": "PDF02",
+      "admin_desc": "PNGDF Force Support Bn - Murray Bks",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 12,
+      "admin_location": "PDF03",
+      "admin_desc": "PNGDF 1RPIR Infantry Bn - Taurama",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 13,
+      "admin_location": "PDF04",
+      "admin_desc": "PNGDF Military Hospital - Taurama",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:06",
+      "updated_at": "2023-05-03 07:44:06"
+    },
+    {
+      "id": 14,
+      "admin_location": "PDF05",
+      "admin_desc": "PNGDF Basilisk Naval Base - Lancron",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 15,
+      "admin_location": "PDF06",
+      "admin_desc": "PNGDF Air Training Wing - 7 Mile",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 16,
+      "admin_location": "PDF07",
+      "admin_desc": "PNGDF Training Depot - Goldie",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 17,
+      "admin_location": "PDF08",
+      "admin_desc": "PNGDF  LRRU - Goldie",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 18,
+      "admin_location": "PDF09",
+      "admin_desc": "PNGDF 2RPIR Infantry Bn - Moem",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 19,
+      "admin_location": "PDF10",
+      "admin_desc": "PNGDF Engineer Bn - Igam",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 20,
+      "admin_location": "PDF11",
+      "admin_desc": "PNGDF Defence Acadamy - Igam",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 21,
+      "admin_location": "PDF12",
+      "admin_desc": "PNGDF Joint Force College - Igam",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 22,
+      "admin_location": "PDF13",
+      "admin_desc": "PNGDF Naval Patrol Boat Base - Lombrum",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 23,
+      "admin_location": "POL",
+      "admin_desc": "RPNGC ( Police )",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 24,
+      "admin_location": "CCHS",
+      "admin_desc": "Catholic Church Health Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 25,
+      "admin_location": "CHS",
+      "admin_desc": "Christian Health Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 26,
+      "admin_location": "HLTAN",
+      "admin_desc": "Health - Angau Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 27,
+      "admin_location": "HLTBU",
+      "admin_desc": "Health - Buka Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 28,
+      "admin_location": "HLTEB",
+      "admin_desc": "East New Britian Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 29,
+      "admin_location": "HLTEH",
+      "admin_desc": "Health - PHA Eastern Highlands",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 30,
+      "admin_location": "HLTEN",
+      "admin_desc": "Enga Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 31,
+      "admin_location": "HLTES",
+      "admin_desc": "Health - PHA East Sepik Province",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 32,
+      "admin_location": "HLTGE",
+      "admin_desc": "Health - Gerehu Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 33,
+      "admin_location": "HLTGU",
+      "admin_desc": "Health - Gulf Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 34,
+      "admin_location": "HLTHE",
+      "admin_desc": "Health - Hela Provincial Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 35,
+      "admin_location": "HLTHP",
+      "admin_desc": "Hela Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 36,
+      "admin_location": "PHACE",
+      "admin_desc": "Central Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 37,
+      "admin_location": "PHAMO",
+      "admin_desc": "Morobe Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 38,
+      "admin_location": "PHASI",
+      "admin_desc": "Simbu Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 39,
+      "admin_location": "PHAWP",
+      "admin_desc": "Western Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 40,
+      "admin_location": "HLTJP",
+      "admin_desc": "Jiwaka Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 41,
+      "admin_location": "HLTKA",
+      "admin_desc": "Health - Kavieng Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 42,
+      "admin_location": "HLTKE",
+      "admin_desc": "Health - Kerema Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 43,
+      "admin_location": "HLTKU",
+      "admin_desc": "Health - Kundiawa Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 44,
+      "admin_location": "HLTLA",
+      "admin_desc": "Health - Laloki Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 45,
+      "admin_location": "HLTMB",
+      "admin_desc": "Health - PHA Milne Bay",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 46,
+      "admin_location": "HLTMD",
+      "admin_desc": "Madang Provincial Health Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 47,
+      "admin_location": "HLTMH",
+      "admin_desc": "Health - Mt Hagen Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 48,
+      "admin_location": "HLTMN",
+      "admin_desc": "Health - PHA Manus Province",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 49,
+      "admin_location": "HLTMO",
+      "admin_desc": "Health - Modilon Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 50,
+      "admin_location": "HLTNC",
+      "admin_desc": "Health - PHA National Capital District",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 51,
+      "admin_location": "HLTNI",
+      "admin_desc": "Health - PHA New Ireland",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 52,
+      "admin_location": "HLTNO",
+      "admin_desc": "Health - Nonga Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 53,
+      "admin_location": "HLTOR",
+      "admin_desc": "Health - PHA Northern Province",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 54,
+      "admin_location": "HLTPM",
+      "admin_desc": "Health - Port Moresby General Hospital",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 55,
+      "admin_location": "HLTSH",
+      "admin_desc": "Health - PHA Southern Highlands",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 56,
+      "admin_location": "HLTWB",
+      "admin_desc": "Health - PHA West New Britain",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 57,
+      "admin_location": "HLTWH",
+      "admin_desc": "Health - PHA Western Highlands",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 58,
+      "admin_location": "HLTWS",
+      "admin_desc": "Health - PHA West Sepik",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 59,
+      "admin_location": "SCMH",
+      "admin_desc": "Directorate for Social Change and Mental Health",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 60,
+      "admin_location": "CBPNG",
+      "admin_desc": "Cocoa Board PNG",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 61,
+      "admin_location": "CCD",
+      "admin_desc": "Climate Change and Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 62,
+      "admin_location": "CFD",
+      "admin_desc": "Coastal Fisheries Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 63,
+      "admin_location": "CLRC",
+      "admin_desc": "Constitutional & Law Reform Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 64,
+      "admin_location": "DCD",
+      "admin_desc": "Dept for Community Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 65,
+      "admin_location": "DEC",
+      "admin_desc": "Dept of Environment & Conservation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 66,
+      "admin_location": "DFA",
+      "admin_desc": "Foreign Affairs",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 67,
+      "admin_location": "DICT",
+      "admin_desc": "Dept of Information & Communications Technology",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 68,
+      "admin_location": "DOD",
+      "admin_desc": "Department of Defence",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 69,
+      "admin_location": "DOM",
+      "admin_desc": "Dept of Mining",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 70,
+      "admin_location": "DOT",
+      "admin_desc": "Dept of Transport",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 71,
+      "admin_location": "DPE",
+      "admin_desc": "Department of Public Enterprise",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 72,
+      "admin_location": "DPM",
+      "admin_desc": "Department Personnel Management",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 73,
+      "admin_location": "DTI",
+      "admin_desc": "Dept of Trade & Industry",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 74,
+      "admin_location": "EDU51",
+      "admin_desc": "EDU - Western Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 75,
+      "admin_location": "EDU52",
+      "admin_desc": "EDU - Gulf Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 76,
+      "admin_location": "EDU53",
+      "admin_desc": "EDU - Central Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 77,
+      "admin_location": "EDU54",
+      "admin_desc": "EDU - Milne Bay Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 78,
+      "admin_location": "EDU55",
+      "admin_desc": "EDU - Oro Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 79,
+      "admin_location": "EDU56",
+      "admin_desc": "EDU - Sthn Highlands Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 80,
+      "admin_location": "EDU57",
+      "admin_desc": "EDU - Eastn Highlands Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 81,
+      "admin_location": "EDU58",
+      "admin_desc": "EDU - Simbu Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 82,
+      "admin_location": "EDU59",
+      "admin_desc": "EDU - Westn Highlands Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 83,
+      "admin_location": "EDU60",
+      "admin_desc": "EDU - Sandaun Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 84,
+      "admin_location": "EDU61",
+      "admin_desc": "EDU - East Sepik Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 85,
+      "admin_location": "EDU62",
+      "admin_desc": "EDU - Madang Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 86,
+      "admin_location": "EDU63",
+      "admin_desc": "EDU - Morobe Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 87,
+      "admin_location": "EDU64",
+      "admin_desc": "EDU - West New Britain Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 88,
+      "admin_location": "EDU65",
+      "admin_desc": "EDU - East New Britain Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 89,
+      "admin_location": "EDU66",
+      "admin_desc": "EDU - New Ireland Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 90,
+      "admin_location": "EDU67",
+      "admin_desc": "EDU - North Solomons Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 91,
+      "admin_location": "EDU68",
+      "admin_desc": "EDU - Manus Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:07",
+      "updated_at": "2023-05-03 07:44:07"
+    },
+    {
+      "id": 92,
+      "admin_location": "EDU69",
+      "admin_desc": "EDU - NCD",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 93,
+      "admin_location": "EDU70",
+      "admin_desc": "EDU - Enga Prov",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 94,
+      "admin_location": "EDU72",
+      "admin_desc": "EDU - Jiwaka Province",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 95,
+      "admin_location": "EDU73",
+      "admin_desc": "EDU - Hela Province",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 96,
+      "admin_location": "ELE",
+      "admin_desc": "Electoral Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 97,
+      "admin_location": "GGO",
+      "admin_desc": "Office of the Governor General",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 98,
+      "admin_location": "GPO",
+      "admin_desc": "Government Printing Office",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 99,
+      "admin_location": "HERST",
+      "admin_desc": "Higher Edu, Research Science & Technology",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 100,
+      "admin_location": "HLTHQ",
+      "admin_desc": "Health - Headquarters",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 101,
+      "admin_location": "ICS",
+      "admin_desc": "PNG Immigration & Citizenship Service",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 102,
+      "admin_location": "IRC",
+      "admin_desc": "Internal Revenue Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 103,
+      "admin_location": "LND",
+      "admin_desc": "Lands and Physical Planning",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 104,
+      "admin_location": "LTI",
+      "admin_desc": "Legal Training Institute",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 105,
+      "admin_location": "NAQ",
+      "admin_desc": "National Agriculture & Quarantine Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 106,
+      "admin_location": "NATTO",
+      "admin_desc": "National Trade Office",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 107,
+      "admin_location": "NCC",
+      "admin_desc": "National Cultural Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 108,
+      "admin_location": "NHC",
+      "admin_desc": "National Housing Corporation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 109,
+      "admin_location": "NIO",
+      "admin_desc": "National Intelligence Organisation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 110,
+      "admin_location": "NIS",
+      "admin_desc": "National Institute of Standards & Ind Technology",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 111,
+      "admin_location": "NMA",
+      "admin_desc": "National Museum & Art Gallery",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 112,
+      "admin_location": "NNB",
+      "admin_desc": "National Narcotics Bureau",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 113,
+      "admin_location": "NPC",
+      "admin_desc": "National Procurement Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 114,
+      "admin_location": "NSO",
+      "admin_desc": "National Statistics Office",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 115,
+      "admin_location": "NVS",
+      "admin_desc": "National Volunteer Service",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 116,
+      "admin_location": "NYC",
+      "admin_desc": "National Youth Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 117,
+      "admin_location": "OLA",
+      "admin_desc": "Office of Library & Archives",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 118,
+      "admin_location": "OOC",
+      "admin_desc": "Office of Censorship",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 119,
+      "admin_location": "OPP",
+      "admin_desc": "Office of the Public Prosecutor",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 120,
+      "admin_location": "ORD",
+      "admin_desc": "Planning & Rural Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 121,
+      "admin_location": "PCS",
+      "admin_desc": "Papua New Guinea Customs Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 122,
+      "admin_location": "PET",
+      "admin_desc": "Dept of Petroleum & Energy",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 123,
+      "admin_location": "PILAG",
+      "admin_desc": "Pacific Institute of Leadership & Governance",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 124,
+      "admin_location": "PLN",
+      "admin_desc": "Department of National Planning & Monitoring",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 125,
+      "admin_location": "PPP",
+      "admin_desc": "Office of The Registrar for Political Parties",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 126,
+      "admin_location": "PSC",
+      "admin_desc": "Public Services Commission",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 127,
+      "admin_location": "PSF",
+      "admin_desc": "PNG Sports Foundation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 128,
+      "admin_location": "PSOL",
+      "admin_desc": "Public Solicitor",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 129,
+      "admin_location": "RST",
+      "admin_desc": "Research Science & Techno Secretariat",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 130,
+      "admin_location": "SEI",
+      "admin_desc": "Dept of Information & Communication Technology",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 131,
+      "admin_location": "SUP",
+      "admin_desc": "Supply & Tenders Board",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 132,
+      "admin_location": "TSC",
+      "admin_desc": "Teaching Services Comm",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 133,
+      "admin_location": "UNE",
+      "admin_desc": "PNG National Commission for UNESCO",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 134,
+      "admin_location": "ATG",
+      "admin_desc": "Attorney General",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 135,
+      "admin_location": "CFS",
+      "admin_desc": "Civil Fire Service",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 136,
+      "admin_location": "DAL",
+      "admin_desc": "Agriculture and Livestock",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 137,
+      "admin_location": "DOW",
+      "admin_desc": "Department of Works & Implementation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 138,
+      "admin_location": "EDU",
+      "admin_desc": "Education - Head Office",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 139,
+      "admin_location": "FIN",
+      "admin_desc": "Finance",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 140,
+      "admin_location": "JUD",
+      "admin_desc": "Judiciary Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 141,
+      "admin_location": "LIR",
+      "admin_desc": "Dept of Labour & Ind Relations",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 142,
+      "admin_location": "MAG",
+      "admin_desc": "Magisterial Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 143,
+      "admin_location": "MIN",
+      "admin_desc": "Ministerial Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 144,
+      "admin_location": "PLG",
+      "admin_desc": "Provincial & Local Level Govt",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 145,
+      "admin_location": "TRE",
+      "admin_desc": "Treasury",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 146,
+      "admin_location": "ABG",
+      "admin_desc": "Autonomous Bougainville Government",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 147,
+      "admin_location": "BDCD",
+      "admin_desc": "ABG Dept  of Community Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 148,
+      "admin_location": "BDCG",
+      "admin_desc": "ABG Dept of Community Government",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 149,
+      "admin_location": "BDED",
+      "admin_desc": "ABG Dept of Economic Development",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 150,
+      "admin_location": "BDFIN",
+      "admin_desc": "ABG Dept Finance & Treasury",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 151,
+      "admin_location": "BDLND",
+      "admin_desc": "ABG Dept of Lands P\/Plann Env & Conservation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 152,
+      "admin_location": "BDME",
+      "admin_desc": "ABG Dept of Minerals & Energy Resources",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 153,
+      "admin_location": "BDOE",
+      "admin_desc": "ABG Dept of Education",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 154,
+      "admin_location": "BDOH",
+      "admin_desc": "ABG Dept of Health",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 155,
+      "admin_location": "BDPAI",
+      "admin_desc": "ABG Dept of Peace Agreement Implementation",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 156,
+      "admin_location": "BDPI",
+      "admin_desc": "ABG Dept of Primary Industries",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 157,
+      "admin_location": "BDPMA",
+      "admin_desc": "ABG Dept of Personnel Management & Admin Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 158,
+      "admin_location": "BDPOL",
+      "admin_desc": "ABG Dept of Police, Corrective Services & Justice",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 159,
+      "admin_location": "BDTS",
+      "admin_desc": "ABG Dept of Technical Services",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 160,
+      "admin_location": "BPBEC",
+      "admin_desc": "ABG Dept of President & BEC",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 161,
+      "admin_location": "CEN",
+      "admin_desc": "Central Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 162,
+      "admin_location": "EHP",
+      "admin_desc": "Eastern Highlands Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 163,
+      "admin_location": "ENB",
+      "admin_desc": "East New Britain Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 164,
+      "admin_location": "ENG",
+      "admin_desc": "Enga Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 165,
+      "admin_location": "ESP",
+      "admin_desc": "East Sepik Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 166,
+      "admin_location": "GUL",
+      "admin_desc": "Gulf Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 167,
+      "admin_location": "HPA",
+      "admin_desc": "Hela Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:08",
+      "updated_at": "2023-05-03 07:44:08"
+    },
+    {
+      "id": 168,
+      "admin_location": "JPA",
+      "admin_desc": "Jiwaka Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 169,
+      "admin_location": "MAD",
+      "admin_desc": "Madang Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 170,
+      "admin_location": "MAN",
+      "admin_desc": "Manus Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 171,
+      "admin_location": "MBP",
+      "admin_desc": "Milne Bay Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 172,
+      "admin_location": "MHNCA",
+      "admin_desc": "Mt. Hagen City Authority",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 173,
+      "admin_location": "MOR",
+      "admin_desc": "Morobe Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 174,
+      "admin_location": "NIP",
+      "admin_desc": "New Ireland Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 175,
+      "admin_location": "NSP",
+      "admin_desc": "North Solomons Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 176,
+      "admin_location": "ORO",
+      "admin_desc": "Oro Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 177,
+      "admin_location": "SAN",
+      "admin_desc": "Sandaun Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 178,
+      "admin_location": "SHP",
+      "admin_desc": "Southern Highlands Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 179,
+      "admin_location": "SIM",
+      "admin_desc": "Simbu Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 180,
+      "admin_location": "WES",
+      "admin_desc": "Western Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 181,
+      "admin_location": "WHP",
+      "admin_desc": "Western Highlands Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 182,
+      "admin_location": "WNB",
+      "admin_desc": "West New Britain Provincial Administration",
+      "user_type": "Non-Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-05-03 07:44:09",
+      "updated_at": "2023-05-03 07:44:09"
+    },
+    {
+      "id": 183,
+      "admin_location": "EDU51",
+      "admin_desc": "EDU - Western Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-06-23 00:01:25",
+      "updated_at": "2023-06-23 00:01:25"
+    },
+    {
+      "id": 184,
+      "admin_location": "Test",
+      "admin_desc": "Test",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-06-23 00:01:25",
+      "updated_at": "2023-06-23 00:01:25"
+    },
+    {
+      "id": 185,
+      "admin_location": "EDU52",
+      "admin_desc": "EDU - Gulf Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:03:53",
+      "updated_at": "2023-06-23 00:03:53"
+    },
+    {
+      "id": 186,
+      "admin_location": "EDU53",
+      "admin_desc": "EDU - Central Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:03:54",
+      "updated_at": "2023-06-23 00:03:54"
+    },
+    {
+      "id": 187,
+      "admin_location": "EDU54",
+      "admin_desc": "EDU - Milne Bay Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:03:54",
+      "updated_at": "2023-06-23 00:03:54"
+    },
+    {
+      "id": 188,
+      "admin_location": "EDU55",
+      "admin_desc": "EDU - Oro Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:03:54",
+      "updated_at": "2023-06-23 00:03:54"
+    },
+    {
+      "id": 189,
+      "admin_location": "EDU56",
+      "admin_desc": "EDU - Sthn Highlands Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:03:54",
+      "updated_at": "2023-06-23 00:03:54"
+    },
+    {
+      "id": 190,
+      "admin_location": "EDU57",
+      "admin_desc": "EDU - Eastn Highlands Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-06-23 00:10:20",
+      "updated_at": "2023-06-23 00:10:20"
+    },
+    {
+      "id": 191,
+      "admin_location": "EDU58",
+      "admin_desc": "EDU - Simbu Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:11:50",
+      "updated_at": "2023-06-23 00:11:50"
+    },
+    {
+      "id": 192,
+      "admin_location": "EDU59",
+      "admin_desc": "EDU - Westn Highlands Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:11:50",
+      "updated_at": "2023-06-23 00:11:50"
+    },
+    {
+      "id": 193,
+      "admin_location": "EDU60",
+      "admin_desc": "EDU - Sandaun Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-06-23 00:18:04",
+      "updated_at": "2023-06-23 00:18:04"
+    },
+    {
+      "id": 194,
+      "admin_location": "EDU61",
+      "admin_desc": "EDU - East Sepik Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:19:42",
+      "updated_at": "2023-06-23 00:19:42"
+    },
+    {
+      "id": 195,
+      "admin_location": "EDU62",
+      "admin_desc": "EDU - Madang Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:19:42",
+      "updated_at": "2023-06-23 00:19:42"
+    },
+    {
+      "id": 196,
+      "admin_location": "EDU63",
+      "admin_desc": "EDU - Morobe Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:19:42",
+      "updated_at": "2023-06-23 00:19:42"
+    },
+    {
+      "id": 197,
+      "admin_location": "EDU64",
+      "admin_desc": "EDU - West New Britain Prov",
+      "user_type": "Teacher",
+      "created_by": "admin@pngtimeaccess.com",
+      "created_at": "2023-06-23 00:21:50",
+      "updated_at": "2023-06-23 00:21:50"
+    },
+    {
+      "id": 198,
+      "admin_location": "EDU65",
+      "admin_desc": "EDU - East New Britain Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:23:21",
+      "updated_at": "2023-06-23 00:23:21"
+    },
+    {
+      "id": 199,
+      "admin_location": "EDU66",
+      "admin_desc": "EDU - New Ireland Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:23:21",
+      "updated_at": "2023-06-23 00:23:21"
+    },
+    {
+      "id": 200,
+      "admin_location": "EDU67",
+      "admin_desc": "EDU - North Solomons Prov",
+      "user_type": "Teacher",
+      "created_by": "Admin",
+      "created_at": "2023-06-23 00:23:21",
+      "updated_at": "2023-06-23 00:23:21"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.liProfileDisplayName {
+  max-width: 166px;
+}
+
+.profileDisplayName {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

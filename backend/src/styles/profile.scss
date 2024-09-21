@@ -1,0 +1,130 @@
+.profile {
+  display: flex;
+
+  .profileContainer {
+    flex: 6;
+  }
+
+  .profileSection {
+    padding: 40px;
+  }
+
+  .row {
+    padding: 0px 0px;
+  }
+
+  .col {
+    padding: 0px 20px;
+  }
+
+  h1 {
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    line-height: 40px;
+  }
+
+  hr {
+    color: rgb(206, 206, 206);
+  }
+
+  input,
+  select {
+    margin: 2px 0 6px 0;
+    color: white;
+    background: rgb(244, 244, 244);
+    border: 1px solid rgba(200, 200, 200, 0);
+    color: #222;
+    padding: 10px 10px;
+    border-radius: 6px;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  // input:focus{
+  //   color: white;
+  //   background: rgba(0, 0, 0, 0.200);
+  //   border: none;
+  // }
+
+  label {
+    margin: 0;
+    color: #666;
+    font-size: 12px;
+    font-weight: 300;
+  }
+
+  button[type="submit"] {
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    // box-shadow: 0px 4px 20px 0px #7950a8a6;
+    background-image: linear-gradient(135deg, #362479 10%, #801f8d 100%);
+    margin: 10px 0;
+    float: right;
+
+    &:hover {
+      background-image: linear-gradient(135deg, #372479bf 10%, #801f8dc9 100%);
+      cursor: pointer;
+    }
+  }
+}
+
+.backButtonSection {
+  color: #555;
+  font-size: 20px;
+  margin-bottom: 600px !important;
+  width: 100px;
+  border: none;
+  border-radius: 8px;
+  padding: 2px 8px 6px 4px;
+  text-align: center;
+  background-color: rgb(231, 231, 231);
+  text-decoration: none;
+  cursor: pointer;
+
+  .backButton {
+    color: #555;
+    font-size: 20px;
+  }
+  .backButtonLabel {
+    color: #555;
+    font-size: 16px;
+    margin-left: 6px;
+  }
+}
+
+.backButtonSection:hover {
+  background-color: whitesmoke;
+}
+
+#combo-box {
+  font-size: 14px;
+}
+
+.autocomplete {
+  .MuiInputBase-root {
+    padding: 0 !important;
+  }
+
+  input {
+    // margin: 0;
+    height: 26px;
+  }
+
+  fieldset {
+    border: 0px;
+  }
+
+  // .form-outline {
+  //   margin: 2px 0px 6px !important;
+  // }
+
+  button {
+    display: none;
+  }
+}

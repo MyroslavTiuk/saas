@@ -1,0 +1,25 @@
+# Env files
+.env
+
+# Compiled output
+/dist
+/dist-seeder
+/node_modules
+
+Dockerfile
+.dockerignore
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# IDEs and editors
+/.idea
+yarn.lock

@@ -1,0 +1,198 @@
+.datatable {
+  height: 600px;
+  padding: 20px;
+
+  .datatableTitle {
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+
+    .addBtn {
+      color: #fff;
+      font-size: 14px;
+      padding: 8px 20px;
+      border-radius: 10px;
+      display: inline-block;
+      border: 0;
+      outline: 0;
+      background-image: linear-gradient(135deg, #362479 10%, #801f8d 100%);
+      margin: 10px 0;
+      float: right;
+
+      &:hover {
+        background-image: linear-gradient(
+          135deg,
+          #372479bf 10%,
+          #801f8dc9 100%
+        );
+        cursor: pointer;
+      }
+    }
+  }
+
+  .cellWithImg {
+    display: flex;
+    align-items: center;
+
+    .cellImg {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 20px;
+    }
+  }
+
+  .cellWithStatus {
+    padding: 5px;
+    border-radius: 5px;
+
+    &.active {
+      background-color: rgba(0, 128, 0, 0.05);
+      color: green;
+    }
+    &.pending {
+      background-color: rgba(255, 217, 0, 0.05);
+      color: goldenrod;
+    }
+    &.passive {
+      background-color: rgba(255, 0, 0, 0.05);
+      color: crimson;
+    }
+  }
+
+  .icon {
+    margin: 0;
+  }
+
+  .cellAction {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    .actionLink {
+      text-decoration: none;
+    }
+
+    .viewButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+
+    .deleteButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(150, 54, 54);
+      cursor: pointer;
+    }
+    .archiveButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(138, 138, 138);
+      cursor: pointer;
+    }
+    .unarchiveButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(45, 55, 148);
+      cursor: pointer;
+    }
+    .detailsButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .updateButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .usersButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .reportsButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .devicesButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .qrcodesButton {
+      margin: 0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(103, 18, 152);
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    .enabledButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(87, 50, 197);
+      cursor: pointer;
+    }
+    .disabledButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: rgb(107, 107, 107);
+      cursor: pointer;
+    }
+  }
+
+  .backButtonSection {
+    margin-bottom: 40px !important;
+    color: #555;
+    font-size: 20px;
+    width: 100px;
+    border: none;
+    border-radius: 8px;
+    padding: 2px 8px 6px 4px;
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    text-decoration: none;
+    cursor: pointer;
+    .backButton {
+      color: #555;
+      font-size: 20px;
+    }
+    .backButtonLabel {
+      color: #555;
+      font-size: 16px;
+      margin-left: 6px;
+    }
+  }
+
+  .backButtonSection:hover {
+    background-color: whitesmoke;
+  }
+}
+#combo-box {
+  font-size: 14px;
+}
